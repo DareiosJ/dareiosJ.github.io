@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Rising High]([/sample_page](https://irpea.itch.io/rising-high))
+[Rising High](https://irpea.itch.io/rising-high)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
