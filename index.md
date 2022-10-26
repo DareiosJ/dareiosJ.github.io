@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Games made in Unity
 
 [Rising High](https://irpea.itch.io/rising-high)
 <img src="images/uCnpeb.png?raw=true"/>
