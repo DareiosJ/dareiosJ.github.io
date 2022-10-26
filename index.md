@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Rising High](https://irpea.itch.io/rising-high)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/uCnpeb.png?raw=true"/>
 
 ---
 [Farm Living](https://dareiosj.itch.io/farm-living)
