@@ -13,7 +13,7 @@
 
 ---
 [NBA Quiz](https://play.google.com/store/apps/details?id=com.crnaduja123.NBAQuiz&hl=hr&gl=US)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/NBAQuizFinal.png?raw=true"/>
 
 ---
 
