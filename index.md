@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Farm Living]([/pdf/sample_presentation.pdf](https://dareiosj.itch.io/farm-living))
+[Farm Living](https://dareiosj.itch.io/farm-living)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NBA Quiz]([http://example.com/](https://play.google.com/store/apps/details?id=com.crnaduja123.NBAQuiz&hl=hr&gl=US))
+[NBA Quiz](https://play.google.com/store/apps/details?id=com.crnaduja123.NBAQuiz&hl=hr&gl=US)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
