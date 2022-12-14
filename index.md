@@ -5,6 +5,8 @@
 ### Games made in Unity
 
 [Rising High](https://irpea.itch.io/rising-high)
+
+This game was made on GameJam during the PISMO Unity education. Also, this game won the 1st place on GameJam. I made several scripts and 5 levels designs for the game.
 <img src="images/uCnpeb.png?raw=true"/>
 
 ---
