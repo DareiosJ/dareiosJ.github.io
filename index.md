@@ -16,7 +16,7 @@ Damien: Crimson Despair was presented as the final project for the conclusion of
 
 This hypercasual game was made as an project for CrazyHub (Novi Sad).
 
-<img src="images/DnClQW.jpg?raw=true"/> <img src="images/r1ifQx.jpg?raw=true"/>
+<img src="images/DnClQW.jpg?raw=true"/>
 
 [Rising High](https://irpea.itch.io/rising-high)
 
