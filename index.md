@@ -7,6 +7,9 @@
 [Damien: Crimson Despair](https://dareiosj.itch.io/damien-crimson-despair)
 
 Damien: Crimson Despair was presented as the final project for the conclusion of the 7th generation educational program "INKUBATOR - PISMO" for "Unity/C# game developer". It was made during three months period by: Game designer, Programmer & UI programmer, Level designer, animations - Dario Jurčević. This is the project I worked on the most since it was the final project.
+<img src="images/0Ydy8x.png?raw=true"/>
+<img src="images/8i29ml.png?raw=true"/>
+<img src="images/qnrSD6.png?raw=true"/>
 
 [Burger Flipper 3D](https://mirna7.itch.io/burger-flipper-3d)
 
